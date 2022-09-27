@@ -1,0 +1,5 @@
+Props Sirf Properties Hain Let Us Asume That Hum Ne Aik Component Banaya 
+Aur Hum Uss Component K Andar Kuch Cheezen Pass Karna Chahta Hain Humne 
+Kaha K Yeh Aik Component Hai Aur Iss Component K Andar Kuch Variables Hain 
+Aur In Variables K Andar Assign Ki Gayi Jo Values Hain Woh Hum Assign 
+Karenge Bass Inhay Props Kehte Hain !
